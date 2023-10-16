@@ -15,7 +15,7 @@
   text-decoration: none;
   color: #fff;
   font-family: 'Nunito', sans-serif;;
-  font-size: 10px;
+  font-size: 21,3px;
   font-weight: 700;
   width: 100%;
   text-align: left;
@@ -61,7 +61,7 @@
  letter-spacing: 0px;
  word-spacing: normal; 
  line-height: 1.2; 
- font-size: 16px;
+ font-size: 30px;
  color:#010101;
  text-align: justify;
  
@@ -86,7 +86,7 @@
   content: "";
   padding-right: 5px;
   font-family: "Nunito";
-  font-size: 9px;
+  font-size: 21,3px;
   font-style: normal;
   color: #213744;
 }
